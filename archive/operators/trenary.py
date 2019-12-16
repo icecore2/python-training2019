@@ -1,6 +1,6 @@
 # http://lifemichael.com/moodle/mod/assign/view.php?id=5189
 # https://www.youtube.com/watch?v=dRWdMjLe0aE
-'''
+''' This is example:
 variable = A if {condition} else B
 
 result = A if False else B
@@ -34,7 +34,9 @@ def standart_usage():
     print(yahoo)
 
 
-# standart_usage() # Uncomment to run.
+print("This is a standart usage:")
+standart_usage()
+
 
 # Advanced usage:
 def advanced_usage():
@@ -47,24 +49,21 @@ def advanced_usage():
     rehovot = 109  # if a > b else 'rehovot'
     print(f'{(rehovot if a > b else "rehovot")}')
 
-    telaviv = 'tel-aviv' if 'a' in ['a', 'b', 'c', 'd'] else 'rehovot'
-    print(telaviv)
+    # telaviv = 'tel-aviv' if 'a' in ['a', 'b', 'c', 'd'] else 'rehovot'
+    # print(telaviv)
+    #
+    # rehovot2 = 'tel-aviv' if 'a' in 'abcd' else 'rehovot'
+    # print(rehovot2)
+    #
+    # color = 'blue' if 'b' not in "mosh" else 'red'
+    # print(color)
+    #
+    # winter = 'winter' if a > 2 and a % 2 == 1 else "summer"
+    # print(winter)
+    #
+    # yahoo = 123 if 'y' not in 'yahoo' else 'x'
+    # print(yahoo)
 
-    rehovot2 = 'tel-aviv' if 'a' in 'abcd' else 'rehovot'
-    print(rehovot2)
 
-    color = 'blue' if 'b' not in "mosh" else 'red'
-    print(color)
-
-    winter = 'winter' if a > 2 and a % 2 == 1 else "summer"
-    print(winter)
-
-    yahoo = 123 if 'y' not in 'yahoo' else 'x'
-    print(yahoo)
-
-
+print("This is a advanced usage:")
 advanced_usage()
-
-
-def dict_usage():
-    first_place

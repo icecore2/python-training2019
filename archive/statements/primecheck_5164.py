@@ -1,3 +1,4 @@
+# http://lifemichael.com/moodle/mod/assign/view.php?id=5164
 print('enter a number you want to check whether it is a prime... ')
 num = int(input())
 
@@ -9,4 +10,4 @@ while(x>=2):
        break
    x = x - 1
 else:
-   print(num,'is a prime number') 
+    print(num, 'is a prime number')

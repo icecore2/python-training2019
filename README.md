@@ -19,14 +19,19 @@
   [Issue](/QA/12.12.2019%20-%20questions.md)
 
 #### Operators
-- [ ] [The trenary Operator](/archive/operators/trenary.py)
-- [ ] [Boolean Expressions](archive/operators/boolean.py)
+- [x] [The trenary Operator](/archive/operators/trenary.py)
+- [x] [Boolean Expressions](archive/operators/boolean.py)
 - [ ] []()
 #### Statements
-- [ ] []()
-- [ ] []()
-
-
+- [x] [Checking Prime ](archive/statements/primecheck_5164.py)
+- [x] [Prime Check](archive/statements/primecheckprint_5163.py)
+- [x] [Simple While loop](archive/statements/loop-while_5167.py)
+- [x] [Simple For loop](archive/statements/loop-for_5168.py)
+- [x] [Simple Comprehensive List](archive/statements/simple_comprehensive_list_5173.py)
+- [x] [Iterating File](archive/statements/iterating-file_5172.py)
+- [x] [Comprehension List of Averages](archive/statements/comprehension_list_of_averages_14004.py)
+- [x] [Dictionary of Tuples](archive/statements/dict_of_tupels_5170.py)
+- [x] [List of Tupels](archive/statements/list_of_tupels_5170.py)
 #### Functions
 - [ ] []()
 - [ ] []()
@@ -36,12 +41,7 @@
 - [ ] []()
 
 #### Modules
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Math Utils From Statement](/archive/modules/math_utils_usage.py)
 
 #### Classes
 - [ ] []()
