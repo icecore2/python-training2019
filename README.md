@@ -19,9 +19,11 @@
   [Issue](/QA/12.12.2019%20-%20questions.md)
 
 #### Operators
-- [x] [The trenary Operator](/archive/operators/trenary.py)
-- [x] [Boolean Expressions](archive/operators/boolean.py)
-- [ ] []()
+- [x] [The trenary Operator](/archive/operators/trenary_operator-5189.py)
+- [x] [Boolean Expressions](archive/operators/boolean_expression-5190.py)
+- [ ] [Operators on Sets](archive/operators/operators_on_sets-5191.py)
+- [ ] [Operators on Lists](archive/operators/operators_on_lists-5192.py)
+- [ ] [Multiple Comparisons Operators]()
 #### Statements
 - [x] [Checking Prime ](archive/statements/primecheck_5164.py)
 - [x] [Prime Check](archive/statements/primecheckprint_5163.py)
@@ -33,23 +35,44 @@
 - [x] [Dictionary of Tuples](archive/statements/dict_of_tupels_5170.py)
 - [x] [List of Tupels](archive/statements/list_of_tupels_5170.py)
 #### Functions
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Simple Unpacking dict Object Assignment]()
+- [ ] [Simple Packing dict Object Assignment]()
+- [ ] [Lambda Expression Simple List Filtering]()
+- [ ] [Intersect Function List Comprehension Expression Demo]()
+- [ ] [Simple Sequence Intersection]()
+- [ ] [Recursive Factorial]()
+- [ ] [Sum of Two Numbers Lambda Expression]()
+- [ ] [Multiplication Lambda Expression]()
+- [ ] [Filtering Excellent Students]()
+- [ ] [Sum of Numbers]()
+- [ ] [Multiplication Numbers Function]()
 
 #### Modules
 - [ ] [Math Utils From Statement](/archive/modules/math_utils_usage.py)
 
 #### Classes
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Simple Circle Class]()
+- [ ] [Simple Rectangle Class]()
+- [ ] [List of Students]()
+- [ ] [Simple Car Class]()
+- [ ] [Bank Account Assignment]()
+- [ ] [List of Best Students]()
+- [ ] [Parallel Lines]()
+- [ ] [Train of Objects]()
+- [ ] [Simple ProfessionalPoint Assignment]()
+- [ ] [Bank Accounts Assignment]()
+- [ ] [MyStack of Rectangles Assignment]()
+- [ ] [Total Area of Shapes]()
+- [ ] [Country Assignment]()
+- [ ] [List of Friends]()
+- [ ] [School Assignment]()
+- [ ] [Person Assignment]()
+- [ ] [Student Assignment]()
+- [ ] [The __str__ Magic Method]()
+- [ ] [Operators Overloading]()
+- [ ] [The repr() Function]()
+- [ ] [BankAccount Operators Overloading]()
+- [ ] [List of Students Marks]()
 
 #### Exceptions
 - [ ] []()
@@ -220,12 +243,7 @@
 - [ ] []()
 
 #### Parsing JSON
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Temperature in Tel-Aviv](archive/parsing_json/temperature%20_in_tel-aviv-14033.py)
 
 #### Global Interpreter Lock
 - [ ] []()
