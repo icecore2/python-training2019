@@ -15,7 +15,7 @@ new_average_list += [average_scores[3] for average_scores in students_list if av
 # print(new_average_list)
 result = 0
 
-for n in new_average_list:
+for n in new_average_list:  # Variable 'n' holds the 'item' when loop performed
     result += n / len(new_average_list)
 
 print("Scores from students:", new_average_list)

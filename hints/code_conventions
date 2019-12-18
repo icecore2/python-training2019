@@ -4,7 +4,8 @@ This is a simple explanations with examples of Pythons code conventions.
 |---|---|
 |**ClassName**|Class name - used by **CamelCase** formatting|
 |**\_\_special__**| Special method - marked with double underscore|
-|||
+|**variable_name**|Variables name with more than 2 words|
+|**variable**|Variables name with 1 word|
 
 ---
 Additional links
