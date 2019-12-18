@@ -67,4 +67,5 @@ advanced_usage()
 
 
 def dict_usage():
-    first_place
+    # first_place
+    pass

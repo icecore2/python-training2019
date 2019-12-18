@@ -21,12 +21,12 @@ def fileWriter(filename, text, times):
 
 # TODO: Finish the writing files from dictionary key : value.
 try:
-    filenames_dict = [{'file1': ("file_test", "the text", 12)},
-                      {'file2': ("file_test2", "the text2", 12)},
-                      {'file3': ("file_test3", "the text3", 12)}]
-    # file1 = fileWriter("file_test", "the text", 12)
-    # file2 = fileWriter("file_test2", "the text2", 12)
-    # file3 = fileWriter("file_test3", "the text3", 12)
+    # filenames_dict = [{'file1': ("file_test", "the text", 12)},
+    #                   {'file2': ("file_test2", "the text2", 12)},
+    #                   {'file3': ("file_test3", "the text3", 12)}]
+    file1 = fileWriter("file_test", "the text", 12)
+    file2 = fileWriter("file_test2", "the text2", 12)
+    file3 = fileWriter("file_test3", "the text3", 12)
     for filenames in filenames_dict:
         # File writes with dictionary
         filenameget = open(fileWriter(filenames_dict.pop(len(filenames_dict))))
