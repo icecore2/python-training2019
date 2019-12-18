@@ -243,7 +243,7 @@
 - [ ] []()
 
 #### Parsing JSON
-- [ ] [Temperature in Tel-Aviv](archive/parsing_json/temperature%20_in_tel-aviv-14033.py)
+- [x] [Temperature in Tel-Aviv](archive/parsing_json/temperature%20_in_tel-aviv-14033.py)
 
 #### Global Interpreter Lock
 - [ ] []()
