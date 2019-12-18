@@ -1,0 +1,6 @@
+"FOR" loop:
+else can be added and printed only if the loop not find "break" and finished successfully.
+
+for ob in [(1,2),(4,3,22)]:
+    print(ob)
+
