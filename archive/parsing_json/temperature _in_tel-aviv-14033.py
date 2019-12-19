@@ -19,17 +19,18 @@ def firstTry(city, api_key):
     # issue 1: TypeError: Object of type HTTPResponse is not JSON serializable
 
     ob = request.urlopen('https://api.openweathermap.org/data/2.5/weather?q={}&APPID={}'.format(city, api_key))
-    print(ob.read())
+    data = ob.read()
 
-    weather_dict = json.dumps(ob)
+    weather_dict = json.loads(data)
     # coordinates, weather, description, base, main  = [weather_result]
     print("weather_dict:", weather_dict)
-
+# TODO: finish this
     for item in weather_dict:
-        print("items:", weather_dict[item])
+        if weather_dict[item] == 'name':
+            print(weather_dict[item])
 
 
-# firstTry(city,api_key)
+firstTry(city,api_key)
 
 
 def secondTry(city, api_key):
@@ -51,5 +52,4 @@ def secondTry(city, api_key):
     else:
         print("Code error:", weather['cod'])
 
-
-secondTry(city, api_key)
+# secondTry(city, api_key)
