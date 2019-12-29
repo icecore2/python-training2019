@@ -1,0 +1,13 @@
+* scopes
+    local
+        non local
+            global
+                built-in
+
+The scopes check the hierarchy by LEGB rule(local, enclosure, global, built-in)
+
+* closure functions
+* NonType returns functions even when they do something but only if there's no return at the end.
+
+* "set" operators / "frozenset"
+* place holders
