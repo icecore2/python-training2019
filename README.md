@@ -21,9 +21,9 @@
 #### Operators
 - [x] [The trenary Operator](/archive/operators/trenary_operator-5189.py)
 - [x] [Boolean Expressions](archive/operators/boolean_expression-5190.py)
-- [ ] [Operators on Sets](archive/operators/operators_on_sets-5191.py)
-- [ ] [Operators on Lists](archive/operators/operators_on_lists-5192.py)
-- [ ] [Multiple Comparisons Operators]()
+- [x] [Operators on Sets](archive/operators/operators_on_sets-5191.py)
+- [x] [Operators on Lists](archive/operators/operators_on_lists-5192.py)
+- [x] [Multiple Comparisons Operators](archive/operators/multiple_comparisons_operators-5193.py)
 #### Statements
 - [x] [Checking Prime ](archive/statements/primecheck_5164.py)
 - [x] [Prime Check](archive/statements/primecheckprint_5163.py)
