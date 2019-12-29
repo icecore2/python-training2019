@@ -35,17 +35,18 @@
 - [x] [Dictionary of Tuples](archive/statements/dict_of_tupels_5170.py)
 - [x] [List of Tupels](archive/statements/list_of_tupels_5170.py)
 #### Functions
-- [ ] [Simple Unpacking dict Object Assignment]()
-- [ ] [Simple Packing dict Object Assignment]()
-- [ ] [Lambda Expression Simple List Filtering]()
-- [ ] [Intersect Function List Comprehension Expression Demo]()
-- [ ] [Simple Sequence Intersection]()
-- [ ] [Recursive Factorial]()
-- [ ] [Sum of Two Numbers Lambda Expression]()
-- [ ] [Multiplication Lambda Expression]()
-- [ ] [Filtering Excellent Students]()
-- [ ] [Sum of Numbers]()
-- [ ] [Multiplication Numbers Function]()
+- [x] [Simple Unpacking dict Object Assignment](archive/functions/simple_unpacking_dict_object_assignment-13539.py)
+- [ ] [Simple Packing dict Object Assignment](archive/functions/simple_packing_dict_object_assignment-13540.py)
+- [ ] [Lambda Expression Simple List Filtering](/archive/functions/lambda_expression_simple_list_filtering-13549.py)
+- [ ] [Intersect Function List Comprehension Expression Demo](/archive/functions/intersect_function_list_comprehension_expression_demo-5185.py)
+- [ ] [Simple Sequence Intersection](/archive/functions/simple_sequence_intersection-5184.py)
+- [x] [Recursive Factorial](archive/functions/recursive_factorial-5186.py)
+- [ ] [Sum of Two Numbers Lambda Expression](/archive/functions/)(-13997.py)
+- [ ] [Multiplication Lambda Expression](/archive/functions/multiplication_lambda_expression-13998.py)
+- [ ] [Filtering Excellent Students](/archive/functions/filtering_excellent_students-13999.py)
+- [ ] [Sum of Numbers](archive/functions/sum_of_numbers-14007.py)
+- [ ] [Multiplic Numbers](archive/functions/sum_of_numbers-14007.py)
+- [ ] [Multiplication Numbers Functionation Numbers Function](/archive/functions/multiplication_numbers_functionation_numbers_function-14008.py)
 
 #### Modules
 - [ ] [Math Utils From Statement](/archive/modules/math_utils_usage.py)
@@ -76,170 +77,68 @@
 
 #### Exceptions
 - [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 
 #### Collections
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Lotto Numbers](archive/collections/lotto_numbers-13626.py)
+- [x] [Simple Comprehension Set](archive/collections/simple_comprehension_set-13629.py)
+- [x] [The Set Operators](archive/collections/the_set_operators-13630.py)
+- [ ] [Comprehension Set of Students](archive/collections/comprehansion_set_of_students-13833.py)
 
 #### Files
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 - [ ] []()
 
 #### Directories
 - [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 
 #### Regular Expressions
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 - [ ] []()
 
 #### Functional Programming
 - [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 
 #### Networking
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 - [ ] []()
 
 #### System Tools
 - [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 
 #### Parsing XML
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Bank Israel Currency Exchange Rates](/archive/parsing_xml/bank_israel_currency_exchange_rates-14043.py)
 
 #### Threads
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 - [ ] []()
 
 #### Text Processing
 - [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 
 #### Unit Testing
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 - [ ] []()
 
 #### Profilling
 - [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 
 #### Command Line
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 - [ ] []()
 
 #### Logging
 - [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 
 #### Introspection
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 - [ ] []()
 
 #### Assertions
 - [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 
 #### Packages
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 - [ ] []()
 
 #### Virtual Machine
 - [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 
 #### Garbage Collector
 - [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 
 #### Documentation
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 - [ ] []()
 
 #### Parsing JSON
@@ -247,34 +146,14 @@
 
 #### Global Interpreter Lock
 - [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 
 #### Databases
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 - [ ] []()
 
 #### Decorators
 - [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 
 #### Multiprocessing
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
 - [ ] []()
 
 ---
@@ -284,3 +163,4 @@
 * [Python programming playlist](https://www.youtube.com/playlist?list=PL6lxxT7IdTxFKo9DguLxGM2dhgb8-u976)
     * [Pythons % Operator](https://www.youtube.com/watch?v=ypo2CVtSWkk)
     * [Pythons Logical and Operator](https://www.youtube.com/watch?v=qQt5G6OEwt8)
+    * [Python 3 - Github demo and solutions(ToCode)](https://github.com/izmirli/python3-course-demos-and-solutions/tree/dev/16-collections-module)
