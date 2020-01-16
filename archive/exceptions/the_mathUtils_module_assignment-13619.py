@@ -5,7 +5,7 @@
 # MathUtilsException should extend Exception.
 # When trying to call the divide function passing over 0 as the second argument a MathUtilsException should be raised.
 
-import math_utils_from_statement as mathUtils
+import archive.exceptions.module.math_utils_from_statement as mathUtils
 
 
 # mathUtils.devide(3, 0)
@@ -13,7 +13,8 @@ mathUtils.devide(3, 1)
 
 
 try:
-    print(int(mathUtils.devide(3, 0)))
+    print(int(mathUtils.devide(3, 1)))  # No exception.
+    print(int(mathUtils.devide(3, 0)))  # Exception, 3 can't devide by 0.
 
-except mathUtils.MyException:
+except mathUtils.MathUtilsException:
     print("MyException was caught.")

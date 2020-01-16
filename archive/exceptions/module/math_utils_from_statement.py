@@ -24,3 +24,14 @@ def differenceof(firstNumber, secondNumber):
 def sumof(firstNumber, secondNumber):
     result = firstNumber + secondNumber
     return result
+
+# This class is empty as an example
+class MathUtilsException(Exception): pass
+
+def devide(firstNumber, secondNumber):
+    if secondNumber == 0:
+        raise MathUtilsException  # Usage of "type" MathUtilsException as an exception
+    else:
+        result = firstNumber / secondNumber
+
+    return result

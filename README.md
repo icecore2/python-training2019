@@ -61,9 +61,8 @@
 - [ ] [Multiplication Numbers Functionation Numbers Function](/archive/functions/multiplication_numbers_functionation_numbers_function-14008.py)
 
 #### Modules
-
 - [x] [Math Utils From Statement](/archive/modules/math_utils_usage.py)
-      \- [Issue ](/QA/2.1.2020_-_questions.md)
+  - [Issue ](/QA/2.1.2020_-_questions.md)
 
 #### Classes
 
@@ -92,7 +91,8 @@
 
 #### Exceptions
 
-- [ ] []()
+- [ ] [The factorial Assignment](archive/exceptions/the_factorial_assignment-13618.py)
+- [x] [The MathUtils Module Assignment](archive/exceptions/the_mathUtils_module_assignment-13619.py)
 
 #### Collections
 
