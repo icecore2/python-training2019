@@ -14,14 +14,12 @@
   ---
 
 #### Types
-<<<<<<< HEAD
 - [x] [Simple Reading from File](/archive/other_demo/types/files/read_from_file.py)
 - [x] [Simple Writing to File ](/archive/types/files/write_to_file.py)
 - [x] [Simple List Average ](/archive/types/list_avg-demo.py)
 - [x] [Hexadecimal, Octal and Binary Representations](/archive/types/hex-oct-dec_types.py)
 - [x] [The input Function](/archive/types/number_output_types-demo.py)
   [Issue](/QA/12.12.2019%20-%20questions.md)
-=======
 
 - [x] [Simple Reading from File](archive/types/files/reading_text_from_file_program-5159.py)
 - [x] [Simple Writing to File](archive/types/files/writing_text_to_file_program-5158.py)
@@ -32,10 +30,8 @@
 - [x] [Fraction Objects](archive/types/fraction_objects-5160.py)
 - [x] [The fraction Module](archive/types/the_fraction_module-5153.py)
 - [x] [Sum of List Numbers](archive/types/sum_of_list_numbers-5147.py)
->>>>>>> 953b58ba3fa1fe7c3ba26edbb232388e02a47de7
 
 #### Operators
-
 - [x] [The trenary Operator](/archive/operators/trenary_operator-5189.py)
 - [x] [Boolean Expressions](archive/operators/boolean_expression-5190.py)
 - [x] [Operators on Sets](archive/operators/operators_on_sets-5191.py)
@@ -43,7 +39,6 @@
 - [x] [Multiple Comparisons Operators](archive/operators/multiple_comparisons_operators-5193.py)
 
 #### Statements
-
 - [x] [Checking Prime ](archive/statements/primecheck_5164.py)
 - [x] [Prime Check](archive/statements/primecheckprint_5163.py)
 - [x] [Simple While loop](archive/statements/loop-while_5167.py)
@@ -55,7 +50,6 @@
 - [x] [List of Tupels](archive/statements/list_of_tupels_5170.py)
 
 #### Functions
-
 - [x] [Simple Unpacking dict Object Assignment](archive/functions/simple_unpacking_dict_object_assignment-13539.py)
 - [x] [Simple Packing dict Object Assignment](archive/functions/simple_packing_dict_object_assignment-13540.py)
 - [ ] [Lambda Expression Simple List Filtering](/archive/functions/lambda_expression_simple_list_filtering-13549.py)
@@ -74,7 +68,6 @@
   - [Issue ](/QA/2.1.2020_-_questions.md)
 
 #### Classes
-
 - [ ] [Simple Circle Class]()
 - [ ] [Simple Rectangle Class]()
 - [ ] [List of Students]()
@@ -99,12 +92,10 @@
 - [ ] [List of Students Marks]()
 
 #### Exceptions
-
 - [ ] [The factorial Assignment](archive/exceptions/the_factorial_assignment-13618.py)
 - [x] [The MathUtils Module Assignment](archive/exceptions/the_mathUtils_module_assignment-13619.py)
 
 #### Collections
-
 - [ ] [Lotto Numbers](archive/collections/lotto_numbers-13626.py)
 - [x] [Simple Comprehension Set](archive/collections/simple_comprehension_set-13629.py)
 - [x] [The Set Operators](archive/collections/the_set_operators-13630.py)
