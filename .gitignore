@@ -2,3 +2,4 @@ venv/
 *.pyc
 .idea/
 README-with_links.md
+*.txt

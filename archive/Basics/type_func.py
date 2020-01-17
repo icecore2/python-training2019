@@ -1,5 +1,5 @@
-""" Global variables """
 
+# Global variables
 decimalType = 12.5
 stringType = "abc"
 arrayType = [4, 2, 53, "abnc"]

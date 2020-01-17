@@ -1,6 +1,16 @@
-"FOR" loop:
-else can be added and printed only if the loop not find "break" and finished successfully.
+* "FOR" loop:
+    else can be added and printed only if the loop not find "break" and finished successfully.
 
-for ob in [(1,2),(4,3,22)]:
-    print(ob)
+    for ob in [(1,2),(4,3,22)]:
+        print(ob)
 
+    "iter" - Iterator:
+    Loops is used and shorter than Iterator.
+
+    "List comperhansion" - read more.
+    * If nested comperhansion, try to use "()"
+
+* Multiple Iterators
+* Dictionary Iterators
+* "None" constant = NoneType
+* Unpacking - train more
