@@ -14,6 +14,14 @@
   ---
 
 #### Types
+<<<<<<< HEAD
+- [x] [Simple Reading from File](/archive/other_demo/types/files/read_from_file.py)
+- [x] [Simple Writing to File ](/archive/types/files/write_to_file.py)
+- [x] [Simple List Average ](/archive/types/list_avg-demo.py)
+- [x] [Hexadecimal, Octal and Binary Representations](/archive/types/hex-oct-dec_types.py)
+- [x] [The input Function](/archive/types/number_output_types-demo.py)
+  [Issue](/QA/12.12.2019%20-%20questions.md)
+=======
 
 - [x] [Simple Reading from File](archive/types/files/reading_text_from_file_program-5159.py)
 - [x] [Simple Writing to File](archive/types/files/writing_text_to_file_program-5158.py)
@@ -24,6 +32,7 @@
 - [x] [Fraction Objects](archive/types/fraction_objects-5160.py)
 - [x] [The fraction Module](archive/types/the_fraction_module-5153.py)
 - [x] [Sum of List Numbers](archive/types/sum_of_list_numbers-5147.py)
+>>>>>>> 953b58ba3fa1fe7c3ba26edbb232388e02a47de7
 
 #### Operators
 
