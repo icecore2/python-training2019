@@ -128,6 +128,7 @@ Note: Files also performed in 'types' topic.
 #### Parsing XML
 
 - [ ] [Bank Israel Currency Exchange Rates](/archive/parsing_xml/bank_israel_currency_exchange_rates-14043.py)
+- [ ] 
 
 #### Threads
 
