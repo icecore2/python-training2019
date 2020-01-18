@@ -1,7 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Indexing" />
-    <notification groupId="Pipfile Watcher" displayType="STICKY_BALLOON" />
-    <notification groupId="Plugins updates" displayType="STICKY_BALLOON" />
-  </component>
-</application>

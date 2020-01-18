@@ -20,4 +20,3 @@ def timeFormat(theFormat):
         return None
     pass
 
-print(timeFormat())
