@@ -3,3 +3,4 @@ venv/
 .idea/
 README-with_links.md
 *.txt
+*.xml

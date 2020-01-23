@@ -1,5 +1,4 @@
 # Table of contents
-
 |                                                         |                                             |                                                 |                                                       |                                           |
 |:--------------------------------------------------------|:--------------------------------------------|:------------------------------------------------|:------------------------------------------------------|:------------------------------------------|
 | **[Types](#types)**                                     | **[Operators](#operators)**                 | **[Statements](#statements)**                   | **[Functions](#functions)**                           |                                           |
@@ -200,6 +199,9 @@ Note: Files also performed in 'types' topic.
 
 ---
 
+### Seminars subjects
+- [Object Oriented Programming - January 23th 2020](/seminars/object_oriented/)
+
 # Additional links
 
 * [Binary Theory, Truth tables, Use boolean operations](https://www.bottomupcs.com/chapter01.xhtml#binary)
@@ -207,3 +209,8 @@ Note: Files also performed in 'types' topic.
   * [Pythons % Operator](https://www.youtube.com/watch?v=ypo2CVtSWkk)
   * [Pythons Logical and Operator](https://www.youtube.com/watch?v=qQt5G6OEwt8)
   * [Python 3 - Github demo and solutions(ToCode)](https://github.com/izmirli/python3-course-demos-and-solutions/tree/dev/16-collections-module)
+
+
+
+[Seminars]: #seminars
+
