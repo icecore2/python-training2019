@@ -12,5 +12,5 @@
 ```
 Children number:
 * Author have **5** childs:
-  * spaces on closing tags (
+  * spaces on closing tags
   * 

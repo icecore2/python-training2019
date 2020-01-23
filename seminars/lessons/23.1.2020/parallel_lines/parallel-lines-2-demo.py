@@ -23,7 +23,7 @@ def parallel(l1, l2):
     # (x1 - y1) / (x2 - y2)
     # Explained link:
     # https://lo.cet.ac.il/player/?document=ed25ea21-d22e-4848-b0ad-3e0b7c3bc1b2&language=he&sitekey=ebag#
-    firstSlope =(l1.p1.x - l1.p2.x) /  (l1.p1.y - l1.p2.y)
+    firstSlope = (l1.p1.x - l1.p2.x) / (l1.p1.y - l1.p2.y)
     secondLine = (l2.p1.x - l2.p2.x) / (l2.p1.y - l2.p2.y)
     return firstSlope == secondLine
 
