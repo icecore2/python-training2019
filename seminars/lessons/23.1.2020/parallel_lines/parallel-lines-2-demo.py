@@ -2,8 +2,6 @@
 # Each Line object should use two Point objects for representing a two-dimensional line.
 # Develop a function that checks whether or not two lines are parallel with each other.
 
-import math
-
 
 class Point:
     # should be 2 points
@@ -36,8 +34,8 @@ pnt4 = Point(2, 1)
 pnt5 = Point(5, 4)
 
 # The lines to check
-line1 = Line(pnt1, pnt2)
-line2 = Line(pnt4, pnt5)
+line1 = Line(pnt1, pnt2)  # 2 points
+line2 = Line(pnt4, pnt5)  # 2 points
 
 if(parallel(line1, line2)):
     print("Parallel.")

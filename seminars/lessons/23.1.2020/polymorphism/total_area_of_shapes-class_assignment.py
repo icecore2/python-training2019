@@ -33,8 +33,8 @@ class Cicle(Shape):
 
     # Area function + return added
     def area(self):
-        piNumber = math.pi.real
-        return piNumber * self.r * self.r  # Area calculation
+        # piNumber = math.pi.real.as_integer_ratio()
+        return 3.14 * self.r * self.r  # Area calculation
 
 
 class Rectangle(Shape):
@@ -56,5 +56,5 @@ total = 0
 for shape in shapes:
     total = total + shape.area()
 
-print(total.real())
+print(total.real)
 
