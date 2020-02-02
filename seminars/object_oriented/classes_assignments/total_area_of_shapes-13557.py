@@ -1,16 +1,14 @@
 """
+Link: http://lifemichael.com/moodle/mod/assign/view.php?id=13557
 You should define the Shape class.
 The Shape class should include one method only.
 The printDetails() method.
 
 Calling this method we shall get, printed to the screen, the text "i am a Shape" together with the area.
-
 You should define two classes that extend Shape. The first is Circle. The second is Rectangle.
 Both the class Circle and Rectangle should include the definition for the area() method.
-
 Each object instantiated from Circle should include the radius attribute.
 The Circle __init__ method should receive the radius of the new created object.
-
 Each object instantiated from Rectangle should include the width and height attributes.
 The Rectangle __init__ method should receive the width and the height of the new created object.
 
@@ -43,6 +41,7 @@ class Rectangle(Shape):
 
     def area(self):
         return self.w * self.h
+
 
 # Data of the shapes
 shapes = [
