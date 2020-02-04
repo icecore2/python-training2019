@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=5150
+# id=5150
 
 # The following code should print out to the screen the number 1232 in its binary, octal and hexadecimal representations. You should complete the missing code.
 # number=1232

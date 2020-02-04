@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=5147
+# id=5147
 
 # The following code should print the total of the nubmers the list holds. You should complete the missing code.
 #

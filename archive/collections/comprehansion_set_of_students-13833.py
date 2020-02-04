@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=13833
+# id=13833
 
 # You should develop a set that includes tuples as its elements.
 # Each tuple holds the values that describe a specific student.

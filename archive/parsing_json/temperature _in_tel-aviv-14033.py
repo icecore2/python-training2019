@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=14033
+# id=14033
 
 # Example link of API:
 # api.openweathermap.org/data/2.5/weather?q=London

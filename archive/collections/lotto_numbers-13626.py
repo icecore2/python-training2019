@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=13626
+# id=13626
 
 <<<<<<< HEAD
 # Develop a simple application that generates 6 randomly selected numbers in the range 1..42.

@@ -1,5 +1,5 @@
 """
-Link: http://lifemichael.com/moodle/mod/assign/view.php?id=13544
+Link: id=13544
 
 Develop a simple module that includes the definition for the Rectangle class.
 Each object instantiated from that class should represent a specific rectangle.

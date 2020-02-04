@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=13628
+# id=13628
 # TODO: files - assignment not finished.
 # Create a file that includes ID numbers. Each row includes a specific ID number.
 # ID numbers might repeat themselves.

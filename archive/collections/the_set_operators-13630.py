@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=13630
+# id=13630
 # Additional link: https://data-flair.training/blogs/python-operator/
 
 # Given the following two sets:

@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=5153
+# id=5153
 
 # Write a simple program that calculates the total of the following fractions: ¾, 1/7, ⅜, 5/9, ⅞ and 13/17.
 

@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=5160
+# id=5160
 
 # Create a list that holds Fraction objects that represent ½, ¾, ⅝ and ⅞. Create a copy for that list by calling the
 # copy() function. Change the first fraction in the new list and print the first list to the screen. You should

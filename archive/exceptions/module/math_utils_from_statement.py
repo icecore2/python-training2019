@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=5188
+# id=5188
 # Define the utils module with the following functions: sumof, multiplyof and differenceof.
 # Each one of these three functions is capable of receiving two arguments and return the calculation of their
 # sum, multiplication or difference.

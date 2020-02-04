@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=13540
+# id=13540
 
 # Develop a simple script that includes the definition of the average function.
 # The average function should receive the marks of all students packed in a dict object and

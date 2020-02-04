@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=14005
+# id=14005
 """
 You should develop a short program that creates a list of tuples.
 Each tuple should represent a specific student.

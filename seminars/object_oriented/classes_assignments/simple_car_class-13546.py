@@ -1,5 +1,5 @@
 """
-Link: http://lifemichael.com/moodle/mod/assign/view.php?id=13546
+Link: id=13546
 
 Develop a separated module the includes the definition for the Car class.
 The variables each Car object should have are 'brand', 'model', 'id' and 'year'.

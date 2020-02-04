@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=13629
+# id=13629
 
 # Develop a simple program that creates the following comprehension sets based on following ones:
 # {1,2,3,4}      ====>   {10,20,30,40}

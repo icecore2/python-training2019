@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=13975
+# id=13975
 
 # You should develop a short program that creates a list that includes the following numbers:  12, 15 and 18.
 # Your code should calculate the average of all numbers the list includes, and print it to the screen.

@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=5189
+# id=5189
 # https://www.youtube.com/watch?v=dRWdMjLe0aE
 '''
 variable = A if {condition} else B

@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=13543
+# id=13543
 
 # Develop a simple module that includes the definition for the Circle class.
 # Each object instantiated from that class should represent a specific circle.

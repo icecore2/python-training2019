@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=5158
+# id=5158
 
 # Develop a simple program that receives from the user a short text and a filename the user wants the program to
 # create and write the text into it.

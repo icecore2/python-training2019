@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=5170
+# id=5170
 """
 The following code should print out the details of all books the dict holds their details. You should complete the missing code.
  books = {

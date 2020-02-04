@@ -1,5 +1,5 @@
 """
-Link: http://lifemichael.com/moodle/mod/assign/view.php?id=13557
+Link: id=13557
 You should define the Shape class.
 The Shape class should include one method only.
 The printDetails() method.

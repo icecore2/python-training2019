@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=5155
+# id=5155
 
 # The following program should receive an input from the user.
 # The input should be a number. The program prints the number binary representation.

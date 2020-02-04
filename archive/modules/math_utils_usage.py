@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=5188
+# id=5188
 # The module file can be copied to local "venv" directory: 'venv' > 'Lib' > 'site-packages' > 'math_utils_lesson'
 # for testing this exception messages.
 

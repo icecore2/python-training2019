@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=5168
+# id=5168
 MAXDOTS = 50
 MINDOTS = 1
 

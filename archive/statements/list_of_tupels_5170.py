@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=5169
+# id=5169
 # The following code should print out the details of all
 # books the list holds their details as tuples. You should complete the missing code.
 books = [

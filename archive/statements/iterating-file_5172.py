@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=5172
+# id=5172
 # The file names.txt includes persons names. You should
 # complete the missing code of the following program in order to print out each one of the names in a separated line.
 # The names are already in separated lines inside names.txt.

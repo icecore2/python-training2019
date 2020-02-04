@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=5193
+# id=5193
 
 # Use the Python console in order to evaluate the value of each one of the following expressions. Before you start, make sure you create the following two sets:
 # >>> a = 12

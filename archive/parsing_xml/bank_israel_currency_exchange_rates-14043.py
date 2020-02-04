@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=14043
+# id=14043
 """Lesson example:
 for nodeBook in document.getElementsByTagName("book"):
     isbn = nodeBook.getAttribute("isbn")

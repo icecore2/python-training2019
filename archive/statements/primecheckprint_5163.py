@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=5163
+# id=5163
 num = 50
 x = num
 

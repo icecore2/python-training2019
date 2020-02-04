@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=13539
+# id=13539
 
 # Develop a simple script that includes the definition of the average function.
 # The average function has four parameters: math, physics, chemistry, and history.

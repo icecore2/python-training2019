@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=13619
+# id=13619
 
 # Develop a new module. Its name should be MathUtils. It should include the following methods: sum, multiply,
 # difference and divide. The new module should include the definition for the MathUtilsException class.

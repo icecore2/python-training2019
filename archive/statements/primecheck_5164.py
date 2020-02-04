@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=5164
+# id=5164
 print('enter a number you want to check whether it is a prime... ')
 num = int(input())
 

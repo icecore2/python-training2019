@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=5159
+# id=5159
 
 # Develop a simple program that receives from the user the name of a textual file, reads its content and prints it to
 # the screen.

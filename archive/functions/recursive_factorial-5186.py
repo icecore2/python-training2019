@@ -1,4 +1,4 @@
-# http://lifemichael.com/moodle/mod/assign/view.php?id=5186
+# id=5186
 # Define a recursive function that is capable of calculating the factorial of the passed argument.
 
 def printingMethod(num):
