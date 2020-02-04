@@ -74,7 +74,7 @@
 - [ ] [Bank Account Assignment](/seminars/object_oriented/classes_assignments/bank_account_assignment-13547.py)
 - [ ] [List of Best Students](/seminars/object_oriented/classes_assignments/list_of_the_best_students-13545.py)
 - [ ] [Parallel Lines](/seminars/object_oriented/classes_assignments/)
-- [ ] [Train of Objects](/seminars/object_oriented/classes_assignments/)
+- [x] [Train of Objects](/seminars/object_oriented/classes_assignments/train_of_objects-13553.py)
 - [ ] [Simple ProfessionalPoint Assignment](/seminars/object_oriented/classes_assignments/)
 - [ ] [Bank Accounts Assignment](/seminars/object_oriented/classes_assignments/)
 - [ ] [MyStack of Rectangles Assignment](/seminars/object_oriented/classes_assignments/)
