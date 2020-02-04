@@ -1,6 +1,6 @@
 venv/
 *.pyc
 .idea/
-README-with_links.md
 *.txt
 *.xml
+_windows
